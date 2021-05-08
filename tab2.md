@@ -1,23 +1,25 @@
 ---
 title: what are the benefits?
 layout: template
-filename: index
+filename: tab2
 --- 
 
-# Cryptocurrency 
+# TAB 2 | ROLE OF CRYPTO IN SOCIETY 
+### used to be index
 
-## **What is it?**
+## OUTLINE
+- Role of crypto in society
+- Why do people invest?
+- How do people make money?
+- Why crypto is the [future](https://www.fool.com/investing/2018/01/02/cryptocurrencies-explained-in-plain-english.aspx) 
 
-- In the simplest form: it is a type of digital money that  serves as an alternative to tangible cash 
-
-## **What are the different types?**
-
-- Just like how different types of currency exist (like US Dollars, Euros, Japanese Yen, and Candian Dollar), there are different types of cryptocurrency
-- Among the most well-known are Bitcoin (BTC) and Ethereum (ETH)
-
-## **How does it work?**
-
-- It utilizes blockchain technology (which is basically a database that records EVERY transaction ever made in that cryptocurrency)  
+## What is the hype?
+- allowing people to make direct transactions without a third party (like a bank)
+- Does not have to go through a third party (no more middleman)
+- Invented to address the flaws of banking systems
+- Takes less time to transfer a payment
+- Lower transaction fees?
+- Blockchain: lo
 
 #### License
 
