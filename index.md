@@ -1,5 +1,5 @@
 ---
-title: pafatbn forever!
+title: defining crypto
 layout: template
 filename: index
 --- 
