@@ -4,21 +4,20 @@ layout: template
 filename: index
 --- 
 
-# patrickandfrantonarethebestninjas
+# Cryptocurrency 
 
-## Created by [Patrick Huston](http://www.patrickhuston.com/) and [Franton Lin](frantonlin.com)
+## **What is it?**
 
-#### What is patrickandfrantonarethebestninjas?
-This project aims to demonstrate without a doubt why Patrick and Franton are the best ninjas. 
+- In the simplest form: it is a type of digital money that  serves as an alternative to tangible cash 
 
-#### How can I use patrickandfrantonarethebestninjas?
-Come to office hours and git tutorials. Baked goods and cash are also accepted.
+## **What are the different types?**
 
-#### Dependencies
-patrickandfrantonarethebestninjas depends heavily on the perception of students. A lot of research has been done looking into ways of monitoring and directly modifying how students perceive ninjas, and we have implemented this technology to the fullest extent. 
+- Just like how different types of currency exist (like US Dollars, Euros, Japanese Yen, and Candian Dollar), there are different types of cryptocurrency
+- Among the most well-known are Bitcoin (BTC) and Ethereum (ETH)
 
-#### How to contribute?
-To contribute to patrickandfrantonarethebestninjas, write a heart-felt love note and submit a PR. 
+## **How does it work?**
+
+- It utilizes blockchain technology (which is basically a database that records EVERY transaction ever made in that cryptocurrency)  
 
 #### License
 
