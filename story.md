@@ -1,11 +1,20 @@
 ---
-title: Our Story
+title: Home
 layout: template
 filename: story
 --- 
 
-# Our Story
+# Cryptocurrency 
 
-We truly started from nothing. Franton was a farm boy in Ohio when I found him, lying on the side of the road. I was a laywer at the time. Once we got to talking, we realized we had something special together. It was at this point that we realized we had to develop patrickandfrantonarethebestninjas.
+## **What is it?**
 
-I'm not going to say it was easy. Because it wasn't. We spent literal minutes before our presentation developing this application, and there were moments when we weren't sure whether it would come to fruition. But it did. Oh boy, it sure did.
+- In the simplest form: it is a type of digital money that  serves as an alternative to tangible cash 
+
+## **What are the different types?**
+
+- Just like how different types of currency exist (like US Dollars, Euros, Japanese Yen, and Candian Dollar), there are different types of cryptocurrency
+- Among the most well-known are Bitcoin (BTC) and Ethereum (ETH)
+
+## **How does it work?**
+
+- It utilizes blockchain technology (which is basically a database that records EVERY transaction ever made in that cryptocurrency)  
