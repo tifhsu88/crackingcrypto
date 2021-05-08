@@ -1,7 +1,7 @@
 ---
-title: Home
+title: why should i care?
 layout: template
-filename: story
+filename: care
 --- 
 
 # Cryptocurrency 
