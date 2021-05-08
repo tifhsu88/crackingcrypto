@@ -1,5 +1,5 @@
 ---
-title: What is Cryptocurrency?
+title: what is cryptocurrency?
 layout: template
 filename: definecrypto
 --- 
