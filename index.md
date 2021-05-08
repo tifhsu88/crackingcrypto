@@ -1,5 +1,5 @@
 ---
-title: defining crypto
+title: what are the benefits?
 layout: template
 filename: index
 --- 
