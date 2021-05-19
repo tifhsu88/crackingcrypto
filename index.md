@@ -25,6 +25,7 @@ filename: index
 
 ## **FUN FACT** 
 
-- No one knows who actually came up with Bitcoin, the first cryptocurrency. The secret identity was the first person to ever implement Blockchain technology in 2009. The inventor goes by the pseudonym, **[Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)**. following the global economy crash in 2008
-Click on [next tab] to find out why
+- No one knows who actually came up with Bitcoin, the first cryptocurrency. The secret identity was the first person to ever implement Blockchain technology in 2009. The inventor goes by the pseudonym, **[Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)**. 
+
+### Click on [what are the benefits](https://tifhsu88.github.io/crackingcrypto/tab2) to find out why cryptocurrency was even invented
 
