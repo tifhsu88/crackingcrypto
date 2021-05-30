@@ -4,27 +4,20 @@ layout: template
 filename: tab2
 --- 
 
-# TAB 2 | ROLE OF CRYPTO IN SOCIETY 
-### used to be index
+# ROLE OF CRYPTO IN SOCIETY 
 
-## OUTLINE
-- Role of crypto in society
-- Why do people invest?
-- How do people make money?
-- Why crypto is the [future](https://www.fool.com/investing/2018/01/02/cryptocurrencies-explained-in-plain-english.aspx) 
+### Cryptocurrency was invented in 2009 to address the flaws of banking systems after the global economy crash of 2008. 
 
-## What is the hype?
-- allowing people to make direct transactions without a third party (like a bank)
-- Does not have to go through a third party (no more middleman)
-- Invented to address the flaws of banking systems
-- Takes less time to transfer a payment
-- Lower transaction fees?
-- Blockchain: lo
+## What makes it better than fiat (government-issued) currencies?
+* Allows people to make direct transactions without a third party (like a bank). In other words, the middleman is eliminated.
+* Takes less time to transfer a payment (internationally as well). Unlike banks that have rigid business hours, the transaction process of crypto is ongoing
+* Little to no transaction fees
 
-#### License
+## Why are so many people investing in cryptocurrencies right now?
+### Aside from the technical benefits, there is an entire psychological aspect surrounding the why people are investing in crypto. 
+With the recent rise in popularity of crypto in the past few years, both CEO’s and celebrities have fed into the hype. This has created an appeal for the culture that cryptocurrency upholds. 
+From hearing success stories of numerous [people who became millionaires by investing in Bitcoin](https://digitalsurge.com.au/blog/5-inspirational-bitcoin-success-stories), more and more individuals have been excited by the prospect of having a chance to become millionaires themselves. In other words, individuals developed FOMO.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+## How exactly do people make money from investing in cryptocurrency?
+The highly volatile market means cryptocurrencies like Bitcoin have potential to continue rising in value. Similar to the stock market, many people purchase crypto and wait for their value to increase. For example, the [price of a single bitcoin went from $196 in October 2013 to almost $59,000 in March 2021](https://www.statista.com/statistics/326707/bitcoin-price-index/). 
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
