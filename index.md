@@ -4,7 +4,7 @@ layout: template
 filename: index
 --- 
 
-# Cryptocurrency 
+# CRYPTOCURRENCY
 
 ## **What is it?**
 
