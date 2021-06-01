@@ -7,4 +7,4 @@ filename: tab4
 
 ![data viz](/images/crypto2.png)
 
-![data viz](/images/infographic1.png)
+![data viz](/images/infographic2.png)
