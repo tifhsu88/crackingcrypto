@@ -16,7 +16,7 @@ filename: tab2
 * Little to no transaction fees
 
 ## **Why are so many people investing in cryptocurrencies right now?**
-### Aside from the technical benefits, there is an entire psychological aspect surrounding the why people are investing in crypto. 
+ **Aside from the technical benefits, there is an entire psychological aspect surrounding the why people are investing in crypto.** 
 With the recent rise in popularity of crypto in the past few years, both CEO’s and celebrities have fed into the hype. This has created an appeal for the culture that cryptocurrency upholds. 
 From hearing success stories of numerous [people who became millionaires by investing in Bitcoin](https://digitalsurge.com.au/blog/5-inspirational-bitcoin-success-stories), more and more individuals have been excited by the prospect of having a chance to become millionaires themselves. In other words, individuals developed FOMO.
 
