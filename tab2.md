@@ -7,7 +7,9 @@ filename: tab2
 # ROLE OF CRYPTO IN SOCIETY 
 ------
 **Cryptocurrency was invented in 2009 to address the flaws of banking systems after the global economy crash of 2008.** 
+
 ------
+
 ## **What makes it better than fiat (government-issued) currencies?**
 * Allows people to make direct transactions without a third party (like a bank). In other words, the middleman is eliminated.
 * Takes less time to transfer a payment (internationally as well). Unlike banks that have rigid business hours, the transaction process of crypto is ongoing
