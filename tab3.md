@@ -6,9 +6,9 @@ filename: tab3
 
 # IMPLICATIONS 
 
-## How exactly is cryptocurrency harming the environment?
+## **How exactly is cryptocurrency harming the environment?**
 
-### **While well-known cryptocurrencies like Bitcoin and Ethereum have grown in popularity, so have their environmental footprint.** 
+### While well-known cryptocurrencies like Bitcoin and Ethereum have grown in popularity, so have their environmental footprint.
 
 The environmental harm of cryptocurrency comes from the energy source that powers these hardworking and competitive computers. With the increase in demand for mining Bitcoin, companies and miners seek cheaper alternatives to run these mining warehouses. 
 
