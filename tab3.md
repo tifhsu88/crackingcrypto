@@ -1,5 +1,5 @@
 ---
-title: why should i care?
+title: why should I care?
 layout: template
 filename: tab3
 --- 
