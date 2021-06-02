@@ -20,7 +20,7 @@ filename: index
 - It utilizes blockchain technology (which is basically a database that records EVERY transaction ever made in that cryptocurrency)  
 
 ------
-### [insert cartoon graphics of this conversation and of a computer who begins completing the tasks of writing mathematical proofs to ensure prof martin is actually prof martin.]
+![crypto infographic](/images/cryptoprocess.png)
 ------
 
 ## **FUN FACT** 
