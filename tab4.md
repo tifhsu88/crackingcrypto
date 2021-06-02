@@ -1,5 +1,5 @@
 ---
-title: data viz
+title: visualizing energy use
 layout: template
 filename: tab4
 --- 
