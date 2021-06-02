@@ -21,6 +21,7 @@ filename: index
 
 ------
 ![crypto infographic](/images/cryptoprocess.png)
+
 ------
 
 ## **FUN FACT** 
