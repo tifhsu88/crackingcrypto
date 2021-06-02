@@ -6,7 +6,7 @@ filename: tab4
 # VISUALIZING THE ENERGY CONSUMPTION OF BITCOIN AND ETHEREUM
 -----
 
-**This chart visualizes the trends in energy consumption by Bitcoin and Ethereum from Jully 2017 to May 2021.**
+**This chart visualizes the trends in energy consumption by Bitcoin and Ethereum from July 2017 to May 2021.**
 
 ![data viz](/images/crypto2.png)
 
